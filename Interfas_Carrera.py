@@ -9,7 +9,7 @@ import time                    # Librería nativa para medir el tiempo real (usa
 # ==========================================
 # 2. DEFINICIÓN DE CLASES (Orientación a Objetos)
 # ==========================================
-# Aquí definimos la "plantilla" o "molde" para crear cada caballo.
+#molde para crear cada caballo.
 class Caballo:
     def __init__(self, id_caballo, y_pos, ventana, img_caballo):
         # --- Atributos de Identificación y Posición ---
